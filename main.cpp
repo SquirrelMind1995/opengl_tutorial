@@ -1,10 +1,3 @@
-/*
-#include <iostream>
-#define GLEW_STATIC
-#include <GL/glew.h>
-#define SDL_MAIN_HANDLED
-*/
-
 /*****************
     only Windows
  *****************/
